@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2838
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22095#The-Red-Cross-Girls-with-the-Russian-Army
 gutenberg_bookshelf:
 - World War I
 - Children's Book Series
