@@ -1,0 +1,32 @@
+_repo: The-Red-Cross-Girls-with-the-Russian-Army_22095
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22095-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vandercook, Margaret
+    birthdate: 1876
+    gutenberg_agent_id: '2838'
+    url: http://www.gutenberg.org/2009/agents/2838
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
+description: ''
+gutenberg_bookshelf:
+- World War I
+- Children's Book Series
+gutenberg_issued: '2007-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcsh 'Red Cross and Red Crescent -- Juvenile fiction'
+- !lcsh 'Russia -- Juvenile fiction'
+- !lcsh 'Nursing -- Juvenile fiction'
+title: The Red Cross Girls with the Russian Army
+url: http://www.gutenberg.org/ebooks/22095
